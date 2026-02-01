@@ -1,0 +1,8 @@
+pandas
+numpy
+streamlit
+matplotlib
+dill
+seaborn
+scikit-learn==1.6.1
+feature_engine
