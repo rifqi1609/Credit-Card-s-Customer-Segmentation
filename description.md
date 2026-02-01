@@ -28,5 +28,5 @@ Language    : Python
 Tools       : Visual Studio Code, Streamlit, HuggingFace
 
 ## Reference
-HuggingFace Deployment https://huggingface.co/spaces/RifqiAs/Customer_Segmentation
-Presentation https://www.canva.com/design/DAHAEe0yigo/PyQy9JQ5emiYYe0auNE2Ng/edit?utm_content=DAHAEe0yigo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+- HuggingFace Deployment https://huggingface.co/spaces/RifqiAs/Customer_Segmentation
+- Presentation https://www.canva.com/design/DAHAEe0yigo/PyQy9JQ5emiYYe0auNE2Ng/edit?utm_content=DAHAEe0yigo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
