@@ -18,7 +18,7 @@ Understanding our customer is a must in the crowded competition recent days. Mai
 The objective of this clustering is to identify the most effective, personalized strategies for increasing credit card usage frequency across different consumer segments.
 
 ## Data
-![alt text](dataset_description.png)
+![alt text](dataset-description.png)
 
 ## Method
 This project implement DBSCAN and K-Means for clustering.
