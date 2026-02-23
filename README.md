@@ -2,7 +2,7 @@
 
 ## Repository Outline
 ```
-1. description.md - Overview
+1. README.md - Overview
 2. dbscan_notebook.ipynb - Notebook for build DBSCAN model
 3. kmeans_notebook.ipynb - Notebook for build K-Means model
 4. inference_notebook.ipynb - Notebook for inferencing/predicting new data
