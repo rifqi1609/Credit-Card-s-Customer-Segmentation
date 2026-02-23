@@ -1,4 +1,4 @@
-# House Price Prediction
+# Credit Card Customer Segmentation
 
 ## Repository Outline
 ```
