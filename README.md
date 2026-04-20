@@ -49,3 +49,4 @@ Access the live application and supporting materials here:
 
 *   **🚀 Live Deployment:** [Customer Segmentation on HuggingFace](https://huggingface.co/spaces/RifqiAs/Customer_Segmentation)
 *   **📊 Business Presentation:** [View Slides on Canva](https://www.canva.com/design/DAHAEe0yigo/PyQy9JQ5emiYYe0auNE2Ng/edit?utm_content=DAHAEe0yigo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+*   **🎥 Video Presentation:** [Watch on Google Drive](https://drive.google.com/file/d/1O1Vu3YaorYr94XYHLUfZt08y7xNQ7tDw/view?usp=sharing)
